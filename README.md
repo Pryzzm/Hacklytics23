@@ -3,6 +3,8 @@ Recipe Classification for Diabetes Risk Factors
 
 Panggih Kusuma Ningrum, Elise Yang, Ryan Young, Diana 
 
+Hacklytics23/Project/Hacklytics2023.ipynb is the Main notebook file
+
 
 Datasets:
 Ingredients Nutrition Info: https://www.kaggle.com/datasets/thedevastator/now-with-more-nutrients 
